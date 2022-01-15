@@ -1,9 +1,9 @@
 
 function App() {
-  return ( <
-    >
-    Bismillahir Rahmanir Rahim <
-    />
+  return (
+    <>
+      Bismillahir Rahmanir Rahim
+    </>
   );
 }
 
