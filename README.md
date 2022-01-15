@@ -6,3 +6,6 @@ This is one of my dream project. I hope it will help people to learn the holy Qu
 
 ## Contribute
 I'm very grateful to all people who help me to develop this project. If you want to contribute, please read the [CONTRIBUTING](https://github.com/mrhrifat/holy-alquran/blob/master/CONTRIBUTING.md) file.
+
+## License
+This project is licensed under the [GPL-3.0](https://github.com/mrhrifat/holy-alquran/blob/master/LICENSE.md) license.
