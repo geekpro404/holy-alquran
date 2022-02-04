@@ -11,3 +11,10 @@ Pull requests are the best way to propose changes.
 5. Issue that pull request.
 6. Wait for me to review it & request to be merged.
 
+## Some Rules
+1. When you make changes & submit pull request
+    1. Your submissions are to be under the same [GPL-3.0](https://github.com/mrhrifat/web-badge/blob/master/LICENSE.md) License that covers the project.
+    2. Your submissions are to be in the same format as the project.
+
+## Report Bugs or Request
+I use GitHub issues to track public bugs. Report a bug by opening an issue.
