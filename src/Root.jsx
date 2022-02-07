@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Header from './components/Header';
+import Dashboard from './components/Header/Dashboard';
 import SurahList from './components/SurahList';
 import { Verses } from './components/Verses';
 
@@ -7,7 +7,7 @@ class Root extends Component {
     render() {
         return (
             <>
-                <Header />
+                <Dashboard />
                 <SurahList />
                 <Verses />
             </>
