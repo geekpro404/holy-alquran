@@ -14,6 +14,7 @@ export default configureStore({
         [chapter.reducerPath]: chapter.reducer,
         [verses.reducerPath]: verses.reducer,
     },
-    
+    middleware: (getDefaultMiddleware) => 
+    getDefaultMiddleware().concat([chapter.middleware, verses.middleware]),
     
 })
