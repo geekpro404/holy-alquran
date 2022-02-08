@@ -17,7 +17,7 @@ class Root extends Component {
                 </Routes>
                 <Routes>
                     <Route path='/' element={<SurahList />} />
-                    <Route path="/:chapterId" element={<Verses />} />
+                    <Route path="/surah/:chapterId" element={<Verses />} />
                 </Routes>
             </>
         )
