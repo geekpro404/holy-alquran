@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Route, Routes } from 'react-router-dom';
 import Dashboard from './components/Header/Dashboard';
 import Hero from './components/Hero';
+import SurahDescription from './components/SurahDescription';
 import SurahInfo from './components/SurahInfo';
 import SurahList from './components/SurahList';
 import Tafsir from './components/Tafsir';
@@ -21,7 +22,7 @@ class Root extends Component {
                     <Route path='/' element={<SurahList />} />
                     <Route path="/surah/:chapterId" element={<Verses />} />
                     <Route path="/surah/:chapterId/info" element={<SurahInfo />} />
-                    <Route path='/surah/:chapterId/verse/:verseId' element={<Tafsir />} />
+                    <Route path='/surah/:chapterId/verse/:verseId/tafsir' element={<Tafsir />} />
                 </Routes>
             </>
         )
