@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import { Route, Routes } from 'react-router-dom';
 import Dashboard from './components/Header/Dashboard';
 import Hero from './components/Hero';
-import SurahDescription from './components/SurahDescription';
 import SurahInfo from './components/SurahInfo';
 import SurahList from './components/SurahList';
 import Tafsir from './components/Tafsir';
