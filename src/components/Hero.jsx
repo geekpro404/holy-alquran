@@ -1,7 +1,8 @@
 import React from 'react';
 import classes from '../styles/all.module.css';
-import { Form, FormControl, Button, Modal } from 'react-bootstrap'
-import {FaSearch} from 'react-icons/fa'
+import { Button, Modal } from 'react-bootstrap'
+import { Link } from 'react-router-dom';
+import { FaSearch } from 'react-icons/fa'
 
 function MyVerticallyCenteredModal(props) {
     return (
@@ -43,13 +44,16 @@ const Hero = () => {
                     </div>
                     <div className={classes.search}>
                         <Button variant="light" onClick={() => setModalShow(true)}>
-                           <FaSearch/> What do you want to read?
+                            <FaSearch /> What do you want to read?
                         </Button>
 
                         <MyVerticallyCenteredModal
                             show={modalShow}
                             onHide={() => setModalShow(false)}
                         />
+                    </div>
+                    <div className={`pb-4 text-center ${classes.popular}`}>
+                        <Link to="/">Ar Rahman</Link><Link to="/">Al Kahf</Link><Link to="/">Yasin</Link> <Link to="/">Al Mulk</Link>
                     </div>
                 </div>
             </div>
