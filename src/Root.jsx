@@ -12,7 +12,22 @@ class Root extends Component {
     render() {
         return (
             <>
-                
+                <Routes>
+                    <Route
+                        path='/'
+                        element={(
+                            <>
+                                <Dashboard />
+                                <Hero />
+                                <SurahList>
+                                    <Outlet />
+                                </SurahList>
+                                <Footer />
+                            </>
+                        )}
+                    />
+                    
+                </Routes>
             </>
         );
     }
