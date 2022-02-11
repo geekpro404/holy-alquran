@@ -3,7 +3,15 @@
     <h2>Holy Al-Quran</h2>
     Al Quran is the holy book of Islam. Muslims believe that the Quran was revealed by Allah (SWT) to the final prophet & messenger, Muhammad Ibn Abdullah (SAW), through the archangel Zibrail (AS). Incrementally over a period of some 23 years, in the beginning month of Ramadan.
     
-  
+  <img src="https://img.shields.io/github/forks/mrhrifat/holy-alquran?style=for-the-badge">
+
+  <img src="https://img.shields.io/github/stars/mrhrifat/holy-alquran?style=for-the-badge">
+
+  <img src="https://img.shields.io/github/issues/mrhrifat/holy-alquran?style=for-the-badge">
+
+  <img src="https://img.shields.io/github/issues-pr/mrhrifat/holy-alquran?style=for-the-badge">
+
+  <img src="https://img.shields.io/github/license/mrhrifat/holy-alquran?style=for-the-badge">
 </div>
 
 ## 
