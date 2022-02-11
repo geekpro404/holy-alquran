@@ -32,6 +32,18 @@ This is one of my dream project. Al-Quran is a Sadaqah Jariyah. I hope to make i
 - [ ] More User Friendly
 - [ ] Many other features
 
+## Support
+👍🏻 If you're using this project & happy with it or you appreciate what I do and wish to support my work, you can consider by 
+- Support To Buy Ko-fi 🍵
+- Buy Me A Coffee ☕️
+- Become a Patreon 🫖
+<div align='center'>
+
+ [![](https://img.shields.io/badge/Ko_fi-FF5E5B?style=for-the-badge&logo=Ko-fi&logoColor=white "Support To Buy Ko-fi")](https://ko-fi.com/mrhrifat)  [![](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black "Buy Me A Coffee")](https://buymeacoffee.com/mrhrifat)  [![](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=Patreon&logoColor=white "Become a Patreon")](https://patreon.com/mrhrifat)
+
+</div>
+⭐️ Starring & Sharing the project is also appreciated. Thanks! ❤️
+
 ## Contribute
 I'm very grateful to all people who help me to develop this project. If you want to contribute, please read the [CONTRIBUTING](https://github.com/mrhrifat/holy-alquran/blob/master/CONTRIBUTING.md) file.
 
