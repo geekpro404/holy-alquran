@@ -1,7 +1,7 @@
 <div align="center">
     <img src="https://i.ibb.co/Z1Hz3Yr/quran.png" alt="quran" border="0" height='90'>
     <h2>Holy Al-Quran</h2>
-    Al Quran is the holy book of Islam. <br>Muslims believe that the Quran was revealed by Allah (SWT) to the final prophet & messenger, Muhammad Ibn Abdullah (SAW), through the archangel Zibrail (AS). Incrementally over a period of some 23 years, in the beginning month of Ramadan.<br>
+    Al Quran is the holy book of Islam. <br>Muslims believe that the Quran was revealed by Allah (SWT) to the final prophet & messenger, Muhammad Ibn Abdullah (SAW), through the archangel Zibrail (AS). Incrementally over a period of some 23 years, in the beginning month of Ramadan.<br><br>
     
   <img src="https://img.shields.io/github/forks/mrhrifat/holy-alquran?style=for-the-badge">
 
