@@ -15,7 +15,7 @@
 </div>
 
 ## Motive
-This is one of my dream project. Al-Quran is a Sadaqah Jariyah. I hope to make it easy for everyone to read, study, & learn Al-Quran. I'm very gratitude to Allah (SWT) for giving me this opportunity to work a project about the Holy Quran.
+This is one of my dream project. Al-Quran is a Sadaqah Jariyah. I hope to make it easy for everyone to read, study, & learn Al-Quran. I'm very gratitude to Allah (SWT) for giving me this opportunity to work a project about the Holy Quran. <br>Al-Quran has many names including The Noble Quran, Al-Quran Al-Kareem, Al-Ketab, Al-Furqan, Al-Maw'itha, Al-Thikr & Al-Noor.
 
 ## Contribute
 I'm very grateful to all people who help me to develop this project. If you want to contribute, please read the [CONTRIBUTING](https://github.com/mrhrifat/holy-alquran/blob/master/CONTRIBUTING.md) file.
