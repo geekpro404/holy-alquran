@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest your idea to improve this project
 title: ''
 labels: ''
-assignees: ''
+assignees: mrhrifat
 
 ---
 
