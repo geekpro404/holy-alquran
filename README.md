@@ -45,7 +45,7 @@ This is one of my dream project. Al-Quran is a Sadaqah Jariyah. I hope to make i
 ⭐️ Starring & Sharing the project is also appreciated. Thanks! ❤️
 
 ## Contribute
-I'm very grateful to all people who help me to develop this project. If you want to contribute, please read the [CONTRIBUTING](https://github.com/mrhrifat/holy-alquran/blob/master/CONTRIBUTING.md) file.
+I am extremely grateful to those who want to help me develop this project. I will be open to any contribution. If you have any idea, please let me know. Please follow this steps to [Contribute](https://github.com/mrhrifat/web-badge/blob/master/CONTRIBUTING.md)
 
 ## License
 This project is under the [GPL-3.0](https://github.com/mrhrifat/holy-alquran/blob/master/LICENSE.md) License.
