@@ -52,8 +52,12 @@ const Hero = () => {
                             onHide={() => setModalShow(false)}
                         />
                     </div>
-                    <div className={`pb-4 text-center ${classes.popular}`}>
-                        <Link to="/">Ar Rahman</Link><Link to="/">Al Kahf</Link><Link to="/">Yasin</Link> <Link to="/">Al Mulk</Link>
+                    <div className={`pb-5 text-center ${classes.popular}`}>
+                        <Link to="/">Ar Rahman</Link>
+                        <Link to="/">Al Kahf</Link>
+                        <Link to="/">Yasin</Link>
+                        <Link to="/">Al Mulk</Link>
+                        <Link to="/">Al Waqi'ah</Link>
                     </div>
                 </div>
             </div>
