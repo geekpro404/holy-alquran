@@ -30,7 +30,8 @@ class Root extends Component {
                     </Route>
                     <Route path='/surah/:chapterId/info' element={<SurahInfo />} />
                     <Route path='*' element={<NotFound />} />
-                    
+                    <Route path='/about-us' element={<AboutUs />} />
+                    <Route path='/feedback' element={<AboutUs />} />
                 </Routes>
             </>
         );
