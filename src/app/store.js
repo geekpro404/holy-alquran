@@ -7,12 +7,15 @@ import {
 import {
     verses
 } from '../services/verses'
+import languageReducer from './language'
 
 
 export default configureStore({
     reducer: {
         [chapter.reducerPath]: chapter.reducer,
         [verses.reducerPath]: verses.reducer,
+        language: languageReducer,
+
     },
     middleware: (getDefaultMiddleware) =>
         getDefaultMiddleware({
