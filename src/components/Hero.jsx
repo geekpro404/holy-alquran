@@ -53,11 +53,11 @@ const Hero = () => {
                         />
                     </div>
                     <div className={`pb-5 text-center ${classes.popular}`}>
-                        <Link to="/">Ar Rahman</Link>
-                        <Link to="/">Al Kahf</Link>
-                        <Link to="/">Yasin</Link>
-                        <Link to="/">Al Mulk</Link>
-                        <Link to="/">Al Waqi'ah</Link>
+                        <Link to="/surah/55">Ar Rahman</Link>
+                        <Link to="/surah/18">Al Kahf</Link>
+                        <Link to="/surah/36">Yasin</Link>
+                        <Link to="/surah/67">Al Mulk</Link>
+                        <Link to="/surah/56">Al Waqi'ah</Link>
                     </div>
                 </div>
             </div>
