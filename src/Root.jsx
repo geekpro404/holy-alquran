@@ -20,7 +20,7 @@ class Root extends Component {
             <>
                 <Routes>
                     <Route
-                        path='/'
+                        path='/*'
                         element={(
                             <>
                                 <Dashboard />
