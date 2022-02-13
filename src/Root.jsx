@@ -7,6 +7,7 @@ import SurahList from './components/SurahList';
 import Verses from './components/Verses';
 import Footer from './components/Footer';
 import NotFound from './components/Others/NotFound';
+import AboutUs from './components/Others/AboutUs';
 
 class Root extends Component {
     render() {
@@ -19,18 +20,17 @@ class Root extends Component {
                             <>
                                 <Dashboard />
                                 <Hero />
-                                <SurahList>
-                                    <Outlet />
-                                </SurahList>
+                                <SurahList />
                                 <Footer />
                             </>
                         )}
                     />
-                    <Route path='/surah/:chapterId' element={<Verses />} />
-                    <Route path='/surah/:chapterId/:verseId' element={<Verses />} />
-                    <Route path='/surah/:chapterId/:verseId/' element={<NotFound />} />
+                    <Route path='/surah/:chapterId' element={<Verses />} >
+                        <Route path=':verseId' element={<Verses />} />
+                    </Route>
                     <Route path='/surah/:chapterId/info' element={<SurahInfo />} />
                     <Route path='*' element={<NotFound />} />
+                    
                 </Routes>
             </>
         );
