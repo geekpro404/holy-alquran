@@ -45,7 +45,11 @@ This is one of my dream project. Al-Quran is a Sadaqah Jariyah. I hope to make i
             <img src="https://i.ibb.co/w7jVhnX/Al-Quran-02.png" alt="Al-Quran-02" border="0">
             <img src="https://i.ibb.co/cLtBfg7/Al-Quran-01.png" alt="Al-Quran-01" border="0">
     </details>
-
+- LightHouse Reports
+    <details>
+        <summary>Click to expand</summary>
+            <img src="https://i.ibb.co/XScr8PX/Light-Report.png" alt="LightReport" border="0">
+    </details>
 
 ## Support
 👍🏻 If you're using this project & happy with it or you appreciate what I do and wish to support my work, you can consider by 
