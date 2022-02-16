@@ -34,6 +34,12 @@ This is one of my dream project. Al-Quran is a Sadaqah Jariyah. I hope to make i
 - [ ] More User Friendly
 - [ ] Many other features
 
+## Demo
+- Live
+    - [Holy Al-Quran](https://holyalquran.netlify.app)
+
+
+
 ## Support
 👍🏻 If you're using this project & happy with it or you appreciate what I do and wish to support my work, you can consider by 
 - Support To Buy Ko-fi 🍵
