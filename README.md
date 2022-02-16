@@ -18,6 +18,8 @@
 This is one of my dream project. Al-Quran is a Sadaqah Jariyah. I hope to make it easy for everyone to read, study, & learn Al-Quran. I'm very gratitude to Allah (SWT) for giving me this opportunity to work a project about the Holy Quran. <br>Al-Quran has many names including The Noble Quran, Al-Quran Al-Kareem, Al-Ketab, Al-Furqan, Al-Maw'itha, Al-Thikr & Al-Noor.
 
 ## Features
+- [x] PWA (Progressive Web App)
+- [x] Offline support
 - [x] User Friendly
 - [x] Detailed Surah Information
 - [x] Surah Chapter Pagination
