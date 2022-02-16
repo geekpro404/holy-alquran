@@ -59,6 +59,7 @@ This is one of my dream project. Al-Quran is a Sadaqah Jariyah. I hope to make i
     - Click Add to Home Screen > Install (Andriod/Ios)
     - Click to Install (Desktop from Browser)
 - Run [Holy Al-Quran](https://holyalquran.netlify.app) on web.
+
 **Important:**
 - If you can't see anything in browser after run, please disable your AdBlocker for this website. (It's not a problem for this website, this problem is caused for Goolge Analytics. Learn more about it [here](https://holyalquran.netlify.app/privacy))
 - Local environment hasn't fully published yet due to development issue.
