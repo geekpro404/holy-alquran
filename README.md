@@ -37,7 +37,14 @@ This is one of my dream project. Al-Quran is a Sadaqah Jariyah. I hope to make i
 ## Demo
 - Live
     - [Holy Al-Quran](https://holyalquran.netlify.app)
-
+- View Here
+    <details>
+        <summary>Click to expand</summary>
+            <img src="https://i.ibb.co/3Y7T0Ld/Al-Quran-04.png" alt="Al-Quran-04" border="0">
+            <img src="https://i.ibb.co/wzfTqm1/Al-Quran-03.png" alt="Al-Quran-03" border="0">
+            <img src="https://i.ibb.co/w7jVhnX/Al-Quran-02.png" alt="Al-Quran-02" border="0">
+            <img src="https://i.ibb.co/cLtBfg7/Al-Quran-01.png" alt="Al-Quran-01" border="0">
+    </details>
 
 
 ## Support
