@@ -22,7 +22,16 @@ const Home = () => {
                 <Offcanvas.Header closeButton>
                     <Offcanvas.Title id="offcanvasNavbarLabel" className={classes.brandLink}>Al Quran</Offcanvas.Title>
                 </Offcanvas.Header>
-                
+                <Offcanvas.Body>
+                    <small className={classes.heading}>Menu</small>
+                    <Nav className={`justify-content-end flex-grow-1 pe-3 ${classes.nav}`}>
+                        <Link to='/'><AiOutlineHome /> Home</Link>
+                        <Link to='/about-us'><BsInfoCircle /> About Us</Link>
+                        <Link to='/feedback'><MdOutlineFeedback /> Feedback</Link>
+                        <Link to='/contribution'><FaRegEdit /> Contribution</Link>
+                        <Link to='/privacy'><MdOutlinePrivacyTip /> Privacy</Link>
+                    </Nav>
+                </Offcanvas.Body>
             </Navbar.Offcanvas>
         </Navbar>
     )
