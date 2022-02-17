@@ -43,7 +43,11 @@ const Footer = () => {
                     </div>
                 </div>
 
-                
+                <div className="row py-4">
+                    <div className="col-md-12 text-center">
+                        <small className={classes.copyright}>© 2022 Holy Al-Quran || All Rights & License Reserved</small>
+                    </div>
+                </div>
             </div>
         </>
     )
