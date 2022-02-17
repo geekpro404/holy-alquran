@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
-import { Outlet, Route, Routes } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
+
 
 
 class Root extends Component {
@@ -8,11 +9,12 @@ class Root extends Component {
             <>
                 <Routes>
                     <Route
-                        path='/*'
+                        path='/'
                         element={(
                             <>
                                 <Dashboard />
                                 <Hero />
+                                <Bookmark />
                                 <SurahList />
                                 <Footer />
                             </>
