@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Route, Routes } from 'react-router-dom';
-
+import { Dashboard, Hero, SurahInfo, Bookmark, SurahList, Verses, Footer, NotFound, AboutUs, Feedback, Contribution, Privacy, Search } from './Export'
 
 
 class Root extends Component {
