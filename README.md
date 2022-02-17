@@ -62,11 +62,11 @@ This is one of my dream project. Al-Quran is a Sadaqah Jariyah. I hope to make i
 
 **Important:**
 - If you can't see anything in browser after run, please disable your AdBlocker for this website. (It's not a problem for this website, this problem is caused for Goolge Analytics. Learn more about it [here](https://holyalquran.netlify.app/privacy))
-- Local environment hasn't fully published yet due to development issue.
 
 ## Important
 Al-Quran is a Open Source & it's a Sadaqah Jariyah. I hope to make it easy for everyone to read, study, & learn Al-Quran. Learn more [about us]((https://holyalquran.netlify.app/about-us)). I aiming to make it a complete and reliable for Quran reader. I will be adding more features and improving the website. Pray for me to Allah (SWT) that he grant me his blessings.<br>
 This project is developed by a Muslim, who do this work for the sake of Allah. I don't serve you ads, so I don't need to track you or use your personal data to provide you with better ads to increase my revenues.
+- Local environment hasn't fully published yet due to development issue.
 
 ## Caution
 This project is Licensed under the [GNU General Public License v3.0](https://github.com/mrhrifat/holy-alquran/blob/master/LICENSE.md). For use this Open Source Project, you must follow the license terms. Besides,
