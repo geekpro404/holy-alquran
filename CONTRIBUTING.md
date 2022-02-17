@@ -2,7 +2,7 @@
 Holy Al-Quran is open for any contribution. If you have any Idea, Suggestion, Report or Request please let me know. I will be happy to help you.
 
 ## Pull Request
-Pull requests are the best way to propose changes.
+Pull requests are the best way to propose changes. Although this project is open source, but due to some issue full code aren't available yet. Soon it will be open to everyone. But still you can change on available code.
 
 1. Fork the Repository
 2. Keep your branch on `master`.
@@ -16,5 +16,3 @@ Pull requests are the best way to propose changes.
     1. Your submissions are to be under the same [GPL-3.0](https://github.com/mrhrifat/holy-alquran/blob/master/LICENSE.md) License that covers the project.
     2. Your submissions are to be in the same format as the project.
 
-## Report Bugs or Request
-I use GitHub issues to track public bugs. Report a bug by opening an issue.
