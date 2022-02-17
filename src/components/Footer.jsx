@@ -18,6 +18,19 @@ const Footer = () => {
                         </small>
                     </div>
 
+                    <div className={`col-md-4 my-3 my-md-0 ${classes.navigate}`}>
+                        <h5>Navigate</h5>
+                        <ul className="nav flex-column">
+                            <Link to={`/`}>Home</Link>
+                            <Link to={`/about-us`}>About Us</Link>
+                            <Link to={`/feedback`}>Feedback</Link>
+                            <Link to={`/bug-reports`}>Bug Reports</Link>
+                            <Link to={`/contribution`}>Contribution</Link>
+                            <Link to={`/privacy`}>Privacy</Link>
+                        </ul>
+                    </div>
+
+ 
             </div>
         </>
     )
