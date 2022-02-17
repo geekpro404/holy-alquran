@@ -30,7 +30,20 @@ const Footer = () => {
                         </ul>
                     </div>
 
- 
+                    <div className={`col-md-4 my-3 my-md-0 ${classes.popularLinks}`}>
+                        <h5>Popular Links</h5>
+                        <ul className="nav flex-column">
+                            <Link to={`/surah/103`}>Al Asr</Link>
+                            <Link to={`/surah/112`}>Al Ikhlas</Link>
+                            <Link to={`/surah/55`}>Ar-Rahman</Link>
+                            <Link to={`/surah/36`}>Yasin</Link>
+                            <Link to={`/surah/67`}>Al Mulk</Link>
+                            <Link to={`/surah/82`}>Al Infitar</Link>
+                        </ul>
+                    </div>
+                </div>
+
+                
             </div>
         </>
     )
