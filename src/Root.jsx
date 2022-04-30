@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import { Route, Routes } from 'react-router-dom';
+import Tafsir from './components/Tafsir';
 import { Dashboard, Hero, Bookmark, SurahList, Footer, Verses, SurahInfo, NotFound, Search, AboutUs, Feedback, Contribution, Privacy } from './Export'
 
 
@@ -21,7 +22,8 @@ class Root extends Component {
                         )}
                     />
                     <Route path='/:chapterId' element={<Verses />} >
-                        <Route path=':verseId' element={<Verses />} />
+                        {/* <Route path='verse.verse_key' element={<Verses />} /> */}
+                        <Route path=':ayahId' element={<Tafsir />} />
                     </Route>
                     <Route path='/:chapterId/info' element={<SurahInfo />} />
                     <Route path='*' element={<NotFound />} />
