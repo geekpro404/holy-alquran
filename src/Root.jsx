@@ -21,7 +21,6 @@ class Root extends Component {
                         )}
                     />
                     <Route path='/:chapterId' element={<Verses />} >
-                        {/* <Route path='verse.verse_key' element={<Verses />} /> */}
                         <Route path=':ayahId' element={<Tafsir />} />
                     </Route>
                     <Route path='/:chapterId/info' element={<SurahInfo />} />
