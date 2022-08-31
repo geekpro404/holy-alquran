@@ -29,8 +29,8 @@ This is one of my dream project. Al-Quran is a Sadaqah Jariyah. I hope to make i
 - [x] Search Surah
 - [x] Tafsir 
 - [x] Clean & Simple
+- [x] English Tafsir
 - [ ] Light Dark Theme
-- [ ] English Tafsir
 - [ ] More User Friendly
 - [ ] Many other features
 
