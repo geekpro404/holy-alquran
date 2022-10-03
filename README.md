@@ -14,6 +14,9 @@
   <img src="https://img.shields.io/github/license/mrhrifat/holy-alquran?style=for-the-badge">
 </div>
 
+## Notice 
+The Holy Al-Quran version 2.0 is coming soon with many amazing features. Pray to Allah (SWT).
+
 ## Motive
 This is one of my dream project. Al-Quran is a Sadaqah Jariyah. I hope to make it easy for everyone to read, study, & learn Al-Quran. I'm very gratitude to Allah (SWT) for giving me this opportunity to work a project about the Holy Quran. <br>Al-Quran has many names including The Noble Quran, Al-Quran Al-Kareem, Al-Ketab, Al-Furqan, Al-Maw'itha, Al-Thikr & Al-Noor.
 
